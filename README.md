@@ -21,3 +21,6 @@ Overall I was quite pleased with the way the Footer  came out, I am most proud o
 * Tailwind CSS 
 
 ## Loom Video Link 
+
+https://www.loom.com/share/239050ea006948968200c143aa46b91a?sid=32f4a83d-ace0-4597-8f11-a0c28521a40d
+
